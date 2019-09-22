@@ -1,0 +1,5 @@
+package co.edu.unilibre.rest.dto;
+
+public class MovieDto {
+
+}

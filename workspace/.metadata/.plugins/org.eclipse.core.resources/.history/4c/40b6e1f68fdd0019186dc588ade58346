@@ -1,0 +1,5 @@
+package co.edu.unilibre.rest.controller;
+
+public class MovieController {
+
+}
